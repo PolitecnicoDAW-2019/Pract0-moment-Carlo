@@ -1,0 +1,29 @@
+{
+  "name": "Pract0-moment-Carlo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pracMoment.js",
+  "scripts": {
+    "start:modules": "nodemon modules.js",
+    "start:dev": "nodemon pracMoment.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolitecnicoDAW/Pract0-moment-Carlo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolitecnicoDAW/Pract0-moment-Carlo/issues"
+  },
+  "homepage": "https://github.com/PolitecnicoDAW/Pract0-moment-Carlo#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.26"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
